@@ -5,7 +5,7 @@
 - 🌱 I’m currently working at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/> as a Full-Stack Developer.  
 - 👯 I’m looking to collaborate on Web Development projects.
 - 📫 Connect me via <a href="https://www.linkedin.com/in/cagataysen/" title="Cagatay Sen's linkedin profile">Linkedin</a>.
-- ☕ In love coffee and tea!
+- ☕ In love with coffee and tea!
 - 🖊️ Lifelong student.
 - 🧽 Cleaning Enthusiast
 - 👾 Fun fact: Equal is not always equal in JS.
