@@ -11,6 +11,7 @@
 - 👾 Fun fact: Equal is not always equal in JS.
 - 🧑‍💻 The technologies I work with and develop on include:
 
+<br />
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/>     
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="45" height="45"/>      
@@ -25,12 +26,16 @@
 </p>
 
 <br />
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cagataysen"><img src="https://github-readme-stats.vercel.app/api?username=cagataysen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CagataySen's GitHub stats" /></a>
 
-<a href="https://github.com/cagataysen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataysen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataysen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+
+<br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cagataysen&color=green" alt="CagataySen" /> </p>
 
