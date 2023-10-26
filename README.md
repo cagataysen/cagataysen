@@ -26,6 +26,14 @@
 </p>
 
 <br />
+
+### Where to find me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cagataysen/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:orhancagataysen@outlook.com)
+
+<br/><br/>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cagataysen"><img src="https://github-readme-stats.vercel.app/api?username=cagataysen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CagataySen's GitHub stats" /></a>
