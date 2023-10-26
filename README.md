@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/> as a Software Engineer.  
 - 👯 I’m looking to collaborate on Web Development projects.
-- 📫 Connect me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cagataysen/)
+- 📫 Connect me via <a href="https://www.linkedin.com/in/cagataysen/" title="Cagatay Sen's linkedin profile">Linkedin</a>.
 - ☕ In love with coffee and tea!
 - 🖊️ Lifelong student.
 - 🧽 Cleaning Enthusiast
