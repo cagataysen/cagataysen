@@ -1,45 +1,48 @@
-<h1 align="left" id="macropower-title">:wave:Hi there! I'm Cagatay Sen</h1><br />
-<h3 align="left"> Glad to see you here!</h3>  <br />
+<h1 align="left">👋 Hi there! I'm Cagatay Sen</h1>
+<h3 align="left">Glad to see you here!</h3>
 
-
-- 🌱 I’m currently working at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/> as a Software Engineer.  
+- 🌍 Recently relocated from Istanbul 🇹🇷 to Krakow 🇵🇱.
+- 💼 Former Software Engineer at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/>.
 - 👯 I’m looking to collaborate on Web Development projects.
-- 🔭 I’m currently learning ReactJS and SpringBoot.
-- 📫 Connect me via <a href="https://www.linkedin.com/in/cagataysen/" title="Cagatay Sen's linkedin profile">Linkedin</a>.
-- ☕ In love with coffee and tea!
-- 🖊️ Lifelong student.
-- 🧽 Cleaning Enthusiast
-- 👾 Fun fact: Equal is not always equal in JS.
-- 🧑‍💻 The technologies I work with and develop on include:
+- 🌱 Currently learning ReactJS and SpringBoot.
+- 🤝 Open to collaboration on Web Development projects.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cagataysen/).
+- ☕ Coffee and tea enthusiast.
+- 📖 Lifelong learner.
+- 🧽 Cleaning enthusiast.
+- 👾 Fun fact: Equal is not always equal in JavaScript.
 
-<br />
+### 🧑‍💻 Technologies I Work With:
+
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="45"/>     
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="45" height="45"/>      
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="45"/>      
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="PL/SQL" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSC" width="45" height="45"/>
-
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/>     
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>      
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/>      
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle PL/SQL" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="45" height="45"/>
 </p>
 
-<br />
-      <br/>
-<br/><br/>
+### 📊 My GitHub Stats
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cagataysen&theme=github_dark"/>
+</p>
 
-<a href="http://www.github.com/cagataysen"><img src="https://github-readme-stats.vercel.app/api?username=cagataysen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CagataySen's GitHub stats" /></a>
+<p align="center">
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cagataysen&theme=github_dark"/>
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cagataysen&theme=github_dark"/>
+</p>
 
-<br />
+### Productive Time Card
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagataysen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cagataysen&theme=github_dark&utcOffset=8"/>
+</p>
 
-<br /><br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cagataysen&color=green" alt="CagataySen" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=cagataysen&color=green" alt="CagataySen"/>
+</p>
