@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/>     
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>      
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/>      
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle PL/SQL" width="45" height="45"/>
@@ -23,7 +24,10 @@
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  
 </p>
 
 ### 📊 My GitHub Stats
