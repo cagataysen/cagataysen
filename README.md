@@ -3,8 +3,9 @@
 
 - 🌍 Recently relocated from Istanbul 🇹🇷 to Krakow 🇵🇱.
 - 💼 Former Software Engineer at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/>.
+- 🎓 Bachelor of Natural and Applied Sciences (B.Sc.) in Computer Engineering.
 - 👯 I’m looking to collaborate on Web Development projects.
-- 🌱 Currently learning ReactJS and SpringBoot.
+- 🌱 Currently learning and working on SpringBoot and Java.
 - 🤝 Open to collaboration on Web Development projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cagataysen/).
 - ☕ Coffee and tea enthusiast.
