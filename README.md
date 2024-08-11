@@ -11,7 +11,7 @@
 - ☕ Coffee and tea enthusiast.
 - 📖 Lifelong learner.
 - 🧽 Cleaning enthusiast.
-- 👾 Fun fact: Equal is not always equal in JavaScript.
+- 👾 Fun fact: If Java were a café, you'd get an exception instead of espresso!
 
 ### 🧑‍💻 Technologies I Work With:
 
