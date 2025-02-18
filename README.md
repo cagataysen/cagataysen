@@ -6,12 +6,9 @@
 - 🎓 Bachelor of Natural and Applied Sciences (B.Sc.) in Computer Engineering.
 - 👯 I’m looking to collaborate on Web Development projects.
 - 🌱 Currently learning and working on SpringBoot and Java.
-- 🤝 Open to collaboration on Web Development projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cagataysen/).
 - ☕ Coffee and tea enthusiast.
 - 📖 Lifelong learner.
-- 🧽 Cleaning enthusiast.
-- 👾 Fun fact: If Java were a café, you'd get an exception instead of espresso!
 
 ### 🧑‍💻 Technologies I Work With:
 
