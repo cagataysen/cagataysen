@@ -1,11 +1,10 @@
 <h1 align="left">👋 Hi there! I'm Cagatay Sen</h1>
 <h3 align="left">Glad to see you here!</h3>
 
-- 🌍 Recently relocated to Krakow 🇵🇱. Now fully settled and ready for new opportunities.
+- 🌍 Located in Krakow 🇵🇱
 - 💼 Former Software Engineer at TEB (BNP Paribas) <img src="https://www.vectorlogo.zone/logos/bnpparibas/bnpparibas-icon.svg" alt="BNP Paribas" width="20" height="20"/>.
 - 🎓 Bachelor of Natural and Applied Sciences (B.Sc.) in Computer Engineering.
-- 👯 I’m looking to collaborate on Web Development projects.
-- 🌱 Currently learning and working on SpringBoot and Java.
+- 🌱 Currently working working on SpringBoot and Java & Python.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/cagataysen/).
 - ☕ Coffee and tea enthusiast.
 - 📖 Lifelong learner.
